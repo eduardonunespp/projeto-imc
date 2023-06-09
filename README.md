@@ -1,6 +1,8 @@
 
 ![WhatsApp Image 2023-06-09 at 10 36 40](https://github.com/eduardonunespp/projeto-imc/assets/100363170/17316919-45b8-4642-8f18-f96785f312d1)
 
+<hr>
+
 <div>
  
  <h1>Calculadora de Índice de Massa Corporal (IMC)</h1>
