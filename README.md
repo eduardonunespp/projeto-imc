@@ -13,7 +13,7 @@
  
 <p>Bem-vindo ao projeto Calculadora de Índice de Massa Corporal (IMC)! Este projeto é uma simples aplicação que permite calcular o IMC de uma pessoa com base em seu peso e altura. O IMC é uma medida amplamente utilizada para avaliar se uma pessoa está com o peso adequado para sua altura.</p>
  
- <h2>Tecnologias ultilizadas:</h2>
+ <h2>Tecnologias Utilizadas:</h2>
  
  <div>
     <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
